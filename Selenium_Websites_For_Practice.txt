@@ -1,0 +1,16 @@
+Websites for Practicing Automation Testing
+Beginners
+https://itera-qa.azurewebsites.net/home/automation
+https://the-internet.herokuapp.com/
+https://www.globalsqa.com/demo-site/
+https://testautomationpractice.blogspot.com/
+https://www.saucedemo.com/
+
+Intermediate & Advanced
+https://opensource-demo.orangehrmlive.com/
+http://demo.nopcommerce.com/
+http://admin-demo.nopcommerce.com/
+https://demo.opencart.com/
+https://demo.opencart.com/admin/
+http://automationpractice.com/
+http://live.demoguru99.com/
