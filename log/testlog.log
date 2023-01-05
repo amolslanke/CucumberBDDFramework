@@ -1,0 +1,178 @@
+2022-12-31 21:34:23,455 - Cucumber BDD Project -INFO - ******Launching Browser******
+2022-12-31 21:34:23,480 - Cucumber BDD Project -INFO - ******Opening URL******
+2022-12-31 21:34:25,688 - Cucumber BDD Project -INFO - ******Providing Login Details******
+2022-12-31 21:34:25,943 - Cucumber BDD Project -INFO - ******Started Login******
+2022-12-31 21:34:39,718 - Cucumber BDD Project -INFO - ******Adding New Customer******
+2022-12-31 21:34:51,775 - Cucumber BDD Project -INFO - ******Saving the New Customer Data******
+2022-12-31 21:34:51,975 - Cucumber BDD Project -INFO - ******Closing Browser******
+2022-12-31 21:34:53,104 - Cucumber BDD Project -INFO - ******Launching Browser******
+2022-12-31 21:34:53,105 - Cucumber BDD Project -INFO - ******Opening URL******
+2022-12-31 21:34:55,008 - Cucumber BDD Project -INFO - ******Providing Login Details******
+2022-12-31 21:34:55,254 - Cucumber BDD Project -INFO - ******Started Login******
+2022-12-31 21:35:05,575 - Cucumber BDD Project -INFO - ******Search Customer By EMAIL******
+2022-12-31 21:35:08,949 - Cucumber BDD Project -INFO - ******Closing Browser******
+2022-12-31 21:35:10,056 - Cucumber BDD Project -INFO - ******Launching Browser******
+2022-12-31 21:35:10,058 - Cucumber BDD Project -INFO - ******Opening URL******
+2022-12-31 21:35:12,290 - Cucumber BDD Project -INFO - ******Providing Login Details******
+2022-12-31 21:35:12,543 - Cucumber BDD Project -INFO - ******Started Login******
+2022-12-31 21:35:22,763 - Cucumber BDD Project -INFO - ******Search Customer By FIRST & LAST NAME******
+2022-12-31 21:35:26,209 - Cucumber BDD Project -INFO - ******Closing Browser******
+2022-12-31 21:35:27,354 - Cucumber BDD Project -INFO - ******Launching Browser******
+2022-12-31 21:35:27,356 - Cucumber BDD Project -INFO - ******Opening URL******
+2022-12-31 21:35:29,378 - Cucumber BDD Project -INFO - ******Providing Login Details******
+2022-12-31 21:35:29,619 - Cucumber BDD Project -INFO - ******Started Login******
+2022-12-31 21:35:33,818 - Cucumber BDD Project -INFO - ******Login PASSED******
+2022-12-31 21:35:35,137 - Cucumber BDD Project -INFO - ******Logout from Application*****
+2022-12-31 21:35:38,161 - Cucumber BDD Project -INFO - ******Login PASSED******
+2022-12-31 21:35:38,162 - Cucumber BDD Project -INFO - ******Closing Browser******
+2022-12-31 21:35:39,320 - Cucumber BDD Project -INFO - ******Launching Browser******
+2022-12-31 21:35:39,321 - Cucumber BDD Project -INFO - ******Opening URL******
+2022-12-31 21:35:41,051 - Cucumber BDD Project -INFO - ******Providing Login Details******
+2022-12-31 21:35:41,305 - Cucumber BDD Project -INFO - ******Started Login******
+2022-12-31 21:35:47,709 - Cucumber BDD Project -INFO - ******Login PASSED******
+2022-12-31 21:35:48,977 - Cucumber BDD Project -INFO - ******Logout from Application*****
+2022-12-31 21:35:52,002 - Cucumber BDD Project -INFO - ******Login PASSED******
+2022-12-31 21:35:52,003 - Cucumber BDD Project -INFO - ******Closing Browser******
+2022-12-31 21:35:53,125 - Cucumber BDD Project -INFO - ******Launching Browser******
+2022-12-31 21:35:53,126 - Cucumber BDD Project -INFO - ******Opening URL******
+2022-12-31 21:35:55,073 - Cucumber BDD Project -INFO - ******Providing Login Details******
+2022-12-31 21:35:55,324 - Cucumber BDD Project -INFO - ******Started Login******
+2022-12-31 21:38:29,729 - Cucumber BDD Project -INFO - ******Launching Browser******
+2022-12-31 21:38:29,750 - Cucumber BDD Project -INFO - ******Opening URL******
+2022-12-31 21:38:31,756 - Cucumber BDD Project -INFO - ******Providing Login Details******
+2022-12-31 21:38:31,989 - Cucumber BDD Project -INFO - ******Started Login******
+2022-12-31 21:38:46,081 - Cucumber BDD Project -INFO - ******Adding New Customer******
+2022-12-31 21:38:57,502 - Cucumber BDD Project -INFO - ******Saving the New Customer Data******
+2022-12-31 21:38:57,693 - Cucumber BDD Project -INFO - ******Closing Browser******
+2022-12-31 21:38:58,720 - Cucumber BDD Project -INFO - ******Launching Browser******
+2022-12-31 21:38:58,722 - Cucumber BDD Project -INFO - ******Opening URL******
+2022-12-31 21:38:59,696 - Cucumber BDD Project -INFO - ******Providing Login Details******
+2022-12-31 21:38:59,938 - Cucumber BDD Project -INFO - ******Started Login******
+2022-12-31 21:39:10,175 - Cucumber BDD Project -INFO - ******Search Customer By EMAIL******
+2022-12-31 21:39:13,508 - Cucumber BDD Project -INFO - ******Closing Browser******
+2022-12-31 21:39:14,484 - Cucumber BDD Project -INFO - ******Launching Browser******
+2022-12-31 21:39:14,485 - Cucumber BDD Project -INFO - ******Opening URL******
+2022-12-31 21:39:16,454 - Cucumber BDD Project -INFO - ******Providing Login Details******
+2022-12-31 21:39:16,677 - Cucumber BDD Project -INFO - ******Started Login******
+2022-12-31 21:39:26,098 - Cucumber BDD Project -INFO - ******Search Customer By FIRST & LAST NAME******
+2022-12-31 21:39:29,481 - Cucumber BDD Project -INFO - ******Closing Browser******
+2022-12-31 21:39:30,561 - Cucumber BDD Project -INFO - ******Launching Browser******
+2022-12-31 21:39:30,563 - Cucumber BDD Project -INFO - ******Opening URL******
+2022-12-31 21:39:32,468 - Cucumber BDD Project -INFO - ******Providing Login Details******
+2022-12-31 21:39:32,691 - Cucumber BDD Project -INFO - ******Started Login******
+2022-12-31 21:39:38,267 - Cucumber BDD Project -INFO - ******Login PASSED******
+2022-12-31 21:39:39,541 - Cucumber BDD Project -INFO - ******Logout from Application*****
+2022-12-31 21:39:42,557 - Cucumber BDD Project -INFO - ******Login PASSED******
+2022-12-31 21:39:42,557 - Cucumber BDD Project -INFO - ******Closing Browser******
+2022-12-31 21:39:43,571 - Cucumber BDD Project -INFO - ******Launching Browser******
+2022-12-31 21:39:43,573 - Cucumber BDD Project -INFO - ******Opening URL******
+2022-12-31 21:39:45,269 - Cucumber BDD Project -INFO - ******Providing Login Details******
+2022-12-31 21:39:45,497 - Cucumber BDD Project -INFO - ******Started Login******
+2022-12-31 21:39:49,752 - Cucumber BDD Project -INFO - ******Login PASSED******
+2022-12-31 21:39:51,008 - Cucumber BDD Project -INFO - ******Logout from Application*****
+2022-12-31 21:39:54,029 - Cucumber BDD Project -INFO - ******Login PASSED******
+2022-12-31 21:39:54,030 - Cucumber BDD Project -INFO - ******Closing Browser******
+2022-12-31 21:39:55,111 - Cucumber BDD Project -INFO - ******Launching Browser******
+2022-12-31 21:39:55,112 - Cucumber BDD Project -INFO - ******Opening URL******
+2022-12-31 21:39:57,090 - Cucumber BDD Project -INFO - ******Providing Login Details******
+2022-12-31 21:39:57,312 - Cucumber BDD Project -INFO - ******Started Login******
+2022-12-31 22:22:28,902 - Cucumber BDD Project -INFO - ******Launching Browser******
+2022-12-31 22:22:28,926 - Cucumber BDD Project -INFO - ******Opening URL******
+2022-12-31 22:22:31,104 - Cucumber BDD Project -INFO - ******Providing Login Details******
+2022-12-31 22:22:31,344 - Cucumber BDD Project -INFO - ******Started Login******
+2022-12-31 22:22:45,259 - Cucumber BDD Project -INFO - ******Adding New Customer******
+2022-12-31 22:22:57,035 - Cucumber BDD Project -INFO - ******Saving the New Customer Data******
+2022-12-31 22:22:57,221 - Cucumber BDD Project -INFO - ******Closing Browser******
+2022-12-31 22:22:58,343 - Cucumber BDD Project -INFO - ******Launching Browser******
+2022-12-31 22:22:58,345 - Cucumber BDD Project -INFO - ******Opening URL******
+2022-12-31 22:23:00,388 - Cucumber BDD Project -INFO - ******Providing Login Details******
+2022-12-31 22:23:00,617 - Cucumber BDD Project -INFO - ******Started Login******
+2022-12-31 22:23:12,391 - Cucumber BDD Project -INFO - ******Search Customer By EMAIL******
+2022-12-31 22:23:15,735 - Cucumber BDD Project -INFO - ******Closing Browser******
+2022-12-31 22:23:16,746 - Cucumber BDD Project -INFO - ******Launching Browser******
+2022-12-31 22:23:16,748 - Cucumber BDD Project -INFO - ******Opening URL******
+2022-12-31 22:23:18,677 - Cucumber BDD Project -INFO - ******Providing Login Details******
+2022-12-31 22:23:18,885 - Cucumber BDD Project -INFO - ******Started Login******
+2022-12-31 22:23:28,256 - Cucumber BDD Project -INFO - ******Search Customer By FIRST & LAST NAME******
+2022-12-31 22:23:31,630 - Cucumber BDD Project -INFO - ******Closing Browser******
+2022-12-31 22:32:49,256 - Cucumber BDD Project -INFO - ******Launching Browser******
+2022-12-31 22:32:49,281 - Cucumber BDD Project -INFO - ******Opening URL******
+2022-12-31 22:32:51,699 - Cucumber BDD Project -INFO - ******Providing Login Details******
+2022-12-31 22:32:51,945 - Cucumber BDD Project -INFO - ******Started Login******
+2022-12-31 22:33:06,327 - Cucumber BDD Project -INFO - ******Adding New Customer******
+2022-12-31 22:33:17,877 - Cucumber BDD Project -INFO - ******Saving the New Customer Data******
+2022-12-31 22:33:18,059 - Cucumber BDD Project -INFO - ******Closing Browser******
+2022-12-31 22:33:19,285 - Cucumber BDD Project -INFO - ******Launching Browser******
+2022-12-31 22:33:19,291 - Cucumber BDD Project -INFO - ******Opening URL******
+2022-12-31 22:33:21,305 - Cucumber BDD Project -INFO - ******Providing Login Details******
+2022-12-31 22:33:21,535 - Cucumber BDD Project -INFO - ******Started Login******
+2022-12-31 22:33:27,177 - Cucumber BDD Project -INFO - ******Login PASSED******
+2022-12-31 22:33:28,403 - Cucumber BDD Project -INFO - ******Logout from Application*****
+2022-12-31 22:33:31,429 - Cucumber BDD Project -INFO - ******Login PASSED******
+2022-12-31 22:33:31,429 - Cucumber BDD Project -INFO - ******Closing Browser******
+2023-01-01 12:13:27,001 - Cucumber BDD Project -INFO - ******Launching Browser******
+2023-01-01 12:13:27,037 - Cucumber BDD Project -INFO - ******Opening URL******
+2023-01-01 12:13:28,929 - Cucumber BDD Project -INFO - ******Providing Login Details******
+2023-01-01 12:13:29,147 - Cucumber BDD Project -INFO - ******Started Login******
+2023-01-01 12:13:41,198 - Cucumber BDD Project -INFO - ******Adding New Customer******
+2023-01-01 12:13:53,014 - Cucumber BDD Project -INFO - ******Saving the New Customer Data******
+2023-01-01 12:13:53,182 - Cucumber BDD Project -INFO - ******Closing Browser******
+2023-01-01 12:13:54,258 - Cucumber BDD Project -INFO - ******Launching Browser******
+2023-01-01 12:13:54,259 - Cucumber BDD Project -INFO - ******Opening URL******
+2023-01-01 12:13:55,421 - Cucumber BDD Project -INFO - ******Providing Login Details******
+2023-01-01 12:13:55,665 - Cucumber BDD Project -INFO - ******Started Login******
+2023-01-01 12:13:59,440 - Cucumber BDD Project -INFO - ******Login PASSED******
+2023-01-01 12:14:00,712 - Cucumber BDD Project -INFO - ******Logout from Application*****
+2023-01-01 12:14:03,727 - Cucumber BDD Project -INFO - ******Login PASSED******
+2023-01-01 12:14:03,727 - Cucumber BDD Project -INFO - ******Closing Browser******
+2023-01-01 12:16:03,310 - Cucumber BDD Project -INFO - ******Launching Browser******
+2023-01-01 12:16:03,340 - Cucumber BDD Project -INFO - ******Opening URL******
+2023-01-01 12:16:05,507 - Cucumber BDD Project -INFO - ******Providing Login Details******
+2023-01-01 12:16:05,829 - Cucumber BDD Project -INFO - ******Started Login******
+2023-01-01 12:16:16,984 - Cucumber BDD Project -INFO - ******Adding New Customer******
+2023-01-01 12:16:28,563 - Cucumber BDD Project -INFO - ******Saving the New Customer Data******
+2023-01-01 12:16:28,737 - Cucumber BDD Project -INFO - ******Closing Browser******
+2023-01-01 12:16:30,742 - Cucumber BDD Project -INFO - ******Launching Browser******
+2023-01-01 12:16:30,744 - Cucumber BDD Project -INFO - ******Opening URL******
+2023-01-01 12:16:32,901 - Cucumber BDD Project -INFO - ******Providing Login Details******
+2023-01-01 12:16:33,175 - Cucumber BDD Project -INFO - ******Started Login******
+2023-01-01 12:16:37,289 - Cucumber BDD Project -INFO - ******Login PASSED******
+2023-01-01 12:16:38,557 - Cucumber BDD Project -INFO - ******Logout from Application*****
+2023-01-01 12:16:41,597 - Cucumber BDD Project -INFO - ******Login PASSED******
+2023-01-01 12:16:41,598 - Cucumber BDD Project -INFO - ******Closing Browser******
+2023-01-01 12:17:01,712 - Cucumber BDD Project -INFO - ******Launching Browser******
+2023-01-01 12:17:01,739 - Cucumber BDD Project -INFO - ******Opening URL******
+2023-01-01 12:17:03,611 - Cucumber BDD Project -INFO - ******Providing Login Details******
+2023-01-01 12:17:03,957 - Cucumber BDD Project -INFO - ******Started Login******
+2023-01-01 12:17:16,742 - Cucumber BDD Project -INFO - ******Adding New Customer******
+2023-01-01 12:17:28,248 - Cucumber BDD Project -INFO - ******Saving the New Customer Data******
+2023-01-01 12:17:28,423 - Cucumber BDD Project -INFO - ******Closing Browser******
+2023-01-01 12:17:30,353 - Cucumber BDD Project -INFO - ******Launching Browser******
+2023-01-01 12:17:30,355 - Cucumber BDD Project -INFO - ******Opening URL******
+2023-01-01 12:17:32,224 - Cucumber BDD Project -INFO - ******Providing Login Details******
+2023-01-01 12:17:32,501 - Cucumber BDD Project -INFO - ******Started Login******
+2023-01-01 12:17:36,161 - Cucumber BDD Project -INFO - ******Login PASSED******
+2023-01-01 12:17:37,409 - Cucumber BDD Project -INFO - ******Logout from Application*****
+2023-01-01 12:17:40,439 - Cucumber BDD Project -INFO - ******Login PASSED******
+2023-01-01 12:17:40,440 - Cucumber BDD Project -INFO - ******Closing Browser******
+2023-01-04 14:20:59,182 - Cucumber BDD Project -INFO - ******Launching Browser******
+2023-01-04 14:20:59,216 - Cucumber BDD Project -INFO - ******Opening URL******
+2023-01-04 14:21:01,302 - Cucumber BDD Project -INFO - ******Providing Login Details******
+2023-01-04 14:21:02,867 - Cucumber BDD Project -INFO - ******Launching Browser******
+2023-01-04 14:21:02,873 - Cucumber BDD Project -INFO - ******Opening URL******
+2023-01-04 14:21:04,929 - Cucumber BDD Project -INFO - ******Providing Login Details******
+2023-01-05 15:11:33,543 - Cucumber BDD Project -INFO - ******Launching Browser******
+2023-01-05 15:11:33,572 - Cucumber BDD Project -INFO - ******Opening URL******
+2023-01-05 15:11:35,775 - Cucumber BDD Project -INFO - ******Providing Login Details******
+2023-01-05 15:11:36,006 - Cucumber BDD Project -INFO - ******Started Login******
+2023-01-05 15:11:48,241 - Cucumber BDD Project -INFO - ******Adding New Customer******
+2023-01-05 15:11:59,655 - Cucumber BDD Project -INFO - ******Saving the New Customer Data******
+2023-01-05 15:11:59,816 - Cucumber BDD Project -INFO - ******Closing Browser******
+2023-01-05 15:12:01,354 - Cucumber BDD Project -INFO - ******Launching Browser******
+2023-01-05 15:12:01,356 - Cucumber BDD Project -INFO - ******Opening URL******
+2023-01-05 15:12:02,672 - Cucumber BDD Project -INFO - ******Providing Login Details******
+2023-01-05 15:12:02,911 - Cucumber BDD Project -INFO - ******Started Login******
+2023-01-05 15:12:05,317 - Cucumber BDD Project -INFO - ******Login PASSED******
+2023-01-05 15:12:06,725 - Cucumber BDD Project -INFO - ******Logout from Application*****
+2023-01-05 15:12:09,739 - Cucumber BDD Project -INFO - ******Login PASSED******
+2023-01-05 15:12:09,740 - Cucumber BDD Project -INFO - ******Closing Browser******
